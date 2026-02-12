@@ -6,7 +6,7 @@ Bilgisayar Mühendisliği 1. Sınıf C Programlama dersi kapsamında oluşturulm
 
 * **diziler / diziUygulamalari:** Dizi yapıları ve matris işlemleri üzerine örnekler.
 * **fonksiyonlar:** Fonksiyon tanımlama ve parametre kullanımı örnekleri.
-* **string:** Karakter dizisi ilk örnekler.
+* **string:** Karakter dizisi örnekleri.
 * **odevler:** Ders kapsamında verilen ödevlerin kodları.
 * **deneme_yanilma_kodlari:** algoritma ve fonksiyonların anlaşılması için oluşturulmuş küçük kod parçaları.
 
